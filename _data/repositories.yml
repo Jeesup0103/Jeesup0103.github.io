@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Jeesup0103
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Jeesup0103/assignment_11
+  - Jeesup0103/class10_weather_page
