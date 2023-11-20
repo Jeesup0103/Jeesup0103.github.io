@@ -15,6 +15,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 안녕하세요. 개발을 좋아하는 학부생 박지섭입니다.
+
 웹 개발, 게임 개발, 인공지능 개발에 관심을 가지고 다양한 토이 프로젝트를 진행하면서 학창 시절을 보내고 있습니다.
 
 <!--
