@@ -4,7 +4,7 @@
     "label": "Undergraduate Computer Science",
     "image": "",
     "email": "jeesup0103@naver.com",
-    "phone": "+82-10-2645-6978",
+    "phone": "(+82) 10-2645-6978",
     "url": "https://Jeesup0103.github.io",
     "summary": "Undergraduate student majoring Computer Science"
   },
@@ -21,9 +21,24 @@
       "courses": ["System Program", "Algotithm", "Computer Architecture"]
     }
   ],
-  "certificates": [],
+  "certificates": [
+    {
+      "name": "Dean's List",
+      "issuer": "Colloge of Computing and Informatics",
+      "date": "2023-4-13"
+    }
+  ],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming Language",
+      "keywords": ["Python", "C++", "Java"]
+    },
+    {
+      "name": "Framework",
+      "keywords": ["Flask", "Pytorch", "Spring boot"]
+    }
+  ],
   "languages": [
     {
       "language": "Korean",
